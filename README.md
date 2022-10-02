@@ -1,5 +1,5 @@
-nifi.flow.configuration.file
-nifi.database.directory
+- nifi.flow.configuration.file
+- nifi.database.directory
 nifi.flowfile.repository.directory
 nifi.content.repository.directory.default
 nifi.provenance.repository.directory.default
